@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Week150OP\Week150OP\bin\Debug\net6.0\Week150OP.exe
+C:\Users\user\source\repos\Week150OP\Week150OP\bin\Debug\net6.0\Week150OP.deps.json
+C:\Users\user\source\repos\Week150OP\Week150OP\bin\Debug\net6.0\Week150OP.runtimeconfig.json
+C:\Users\user\source\repos\Week150OP\Week150OP\bin\Debug\net6.0\Week150OP.dll
+C:\Users\user\source\repos\Week150OP\Week150OP\bin\Debug\net6.0\Week150OP.pdb
+C:\Users\user\source\repos\Week150OP\Week150OP\obj\Debug\net6.0\Week150OP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Week150OP\Week150OP\obj\Debug\net6.0\Week150OP.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Week150OP\Week150OP\obj\Debug\net6.0\Week150OP.AssemblyInfo.cs
+C:\Users\user\source\repos\Week150OP\Week150OP\obj\Debug\net6.0\Week150OP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Week150OP\Week150OP\obj\Debug\net6.0\Week150OP.dll
+C:\Users\user\source\repos\Week150OP\Week150OP\obj\Debug\net6.0\refint\Week150OP.dll
+C:\Users\user\source\repos\Week150OP\Week150OP\obj\Debug\net6.0\Week150OP.pdb
+C:\Users\user\source\repos\Week150OP\Week150OP\obj\Debug\net6.0\Week150OP.genruntimeconfig.cache
+C:\Users\user\source\repos\Week150OP\Week150OP\obj\Debug\net6.0\ref\Week150OP.dll
